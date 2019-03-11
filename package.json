@@ -1,0 +1,20 @@
+{
+  "name": "js-validation-check",
+  "version": "1.0.8",
+  "description": "Javascript validations made easy",
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/saiumesh535/webpack-concat-plugin/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saiumesh535/webpack-concat-plugin"
+  },
+  "homepage": "https://github.com/saiumesh535/webpack-concat-plugin",
+  "keywords": [
+    "validation",
+    "js-validation"
+  ],
+  "author": "sai umesh",
+  "license": "MIT"
+}
