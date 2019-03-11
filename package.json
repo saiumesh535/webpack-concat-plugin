@@ -14,7 +14,8 @@
   "keywords": [
     "webpack",
     "webpack plugin",
-    "webpack concat"
+    "webpack concat",
+    "webpack merge"
   ],
   "author": "sai umesh",
   "license": "MIT"
