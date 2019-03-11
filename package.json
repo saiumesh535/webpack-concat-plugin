@@ -1,7 +1,7 @@
 {
-  "name": "js-validation-check",
-  "version": "1.0.8",
-  "description": "Javascript validations made easy",
+  "name": "webpack-concat",
+  "version": "0.0.1",
+  "description": "Plugin for Concating files in Webpack 4",
   "main": "index.js",
   "bugs": {
     "url": "https://github.com/saiumesh535/webpack-concat-plugin/issues"
@@ -12,8 +12,9 @@
   },
   "homepage": "https://github.com/saiumesh535/webpack-concat-plugin",
   "keywords": [
-    "validation",
-    "js-validation"
+    "webpack",
+    "webpack plugin",
+    "webpack concat"
   ],
   "author": "sai umesh",
   "license": "MIT"

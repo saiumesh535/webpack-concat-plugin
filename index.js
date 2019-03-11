@@ -27,7 +27,7 @@ const concatFiles = (files, destination) => {
     })
 }
 
-class LetzNavConcatPlugin {
+class WebPackConcatPlugin {
     constructor(config) {
         this.files = config.files;
         this.output = config.output;
@@ -44,4 +44,4 @@ class LetzNavConcatPlugin {
     }
 }
 
-module.exports = LetzNavConcatPlugin;
+module.exports = WebPackConcatPlugin;
