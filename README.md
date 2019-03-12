@@ -23,6 +23,7 @@ module.exports = {
     // concat them into single **output** file
     plugins: [
         new WebPackConcatPlugin({
+            buildPath: ['build', 'prod'],
             output: 'output.js',
             files: ['file1.js', 'file2.js']
         }),
