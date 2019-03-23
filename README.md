@@ -19,6 +19,7 @@ module.exports = {
             }
         ]
     },
+    // build path -> path where files are located
     // it will concat **files** in given order and
     // concat them into single **output** file
     plugins: [
