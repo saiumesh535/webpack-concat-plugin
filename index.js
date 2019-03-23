@@ -31,7 +31,7 @@ class WebPackConcatPlugin {
     constructor(config) {
         this.files = config.files;
         this.output = config.output;
-        this.buildPath = config.buildPath.join()
+        this.buildPath = config.buildPath.join().replace(",", "/")
     }
 
     apply(compiler) {
